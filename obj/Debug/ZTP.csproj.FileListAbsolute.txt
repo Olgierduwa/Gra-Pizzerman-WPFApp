@@ -1,0 +1,86 @@
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\bin\Debug\ZTP.exe.config
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\bin\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\bin\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.csprojAssemblyReference.cache
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\MainWindow.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\App.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP_MarkupCompile.cache
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP_MarkupCompile.lref
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\MainWindow.baml
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.g.resources
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.Properties.Resources.resources
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.csproj.GenerateResource.cache
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.csproj.CoreCompileInputs.cache
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\bin\Debug\System.Drawing.Common.dll
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\ZTP.csproj.CopyComplete
+C:\Users\OLGIERD\Desktop\semestr v\ZTP\ZTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ja\Desktop\ZTP\bin\Debug\ZTP.exe.config
+C:\Users\ja\Desktop\ZTP\bin\Debug\ZTP.exe
+C:\Users\ja\Desktop\ZTP\bin\Debug\ZTP.pdb
+C:\Users\ja\Desktop\ZTP\bin\Debug\System.Drawing.Common.dll
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.csprojAssemblyReference.cache
+C:\Users\ja\Desktop\ZTP\obj\Debug\MainWindow.g.cs
+C:\Users\ja\Desktop\ZTP\obj\Debug\App.g.cs
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP_MarkupCompile.cache
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP_MarkupCompile.lref
+C:\Users\ja\Desktop\ZTP\obj\Debug\MainWindow.baml
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.g.resources
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.Properties.Resources.resources
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.csproj.GenerateResource.cache
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.csproj.CoreCompileInputs.cache
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.csproj.CopyComplete
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.exe
+C:\Users\ja\Desktop\ZTP\obj\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.csprojAssemblyReference.cache
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\MainWindow.g.cs
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\App.g.cs
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP_MarkupCompile.cache
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP_MarkupCompile.lref
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\ZTP\bin\Debug\ZTP.exe.config
+C:\Users\OLGIERD\Desktop\ZTP\bin\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\ZTP\bin\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\ZTP\bin\Debug\System.Drawing.Common.dll
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\MainWindow.baml
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.g.resources
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.Properties.Resources.resources
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.csproj.GenerateResource.cache
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.csproj.CoreCompileInputs.cache
+C:\Users\OLGIERD\Desktop\ZTP\obj\Debug\ZTP.csproj.CopyComplete
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\bin\Debug\ZTP.exe.config
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\bin\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\bin\Debug\ZTP.pdb
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\bin\Debug\System.Drawing.Common.dll
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.csprojAssemblyReference.cache
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\MainWindow.g.cs
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\App.g.cs
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP_MarkupCompile.cache
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP_MarkupCompile.lref
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\MainWindow.baml
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.g.resources
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.Properties.Resources.resources
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.csproj.GenerateResource.cache
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.csproj.CoreCompileInputs.cache
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.csproj.CopyComplete
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.exe
+C:\Users\OLGIERD\Desktop\CzarnaPizzeria\obj\Debug\ZTP.pdb
+D:\STUDIA\ZTP\ZTP PROJEKT\bin\Debug\ZTP.exe.config
+D:\STUDIA\ZTP\ZTP PROJEKT\bin\Debug\ZTP.exe
+D:\STUDIA\ZTP\ZTP PROJEKT\bin\Debug\ZTP.pdb
+D:\STUDIA\ZTP\ZTP PROJEKT\bin\Debug\System.Drawing.Common.dll
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.csprojAssemblyReference.cache
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\MainWindow.g.cs
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\App.g.cs
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP_MarkupCompile.cache
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP_MarkupCompile.lref
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\MainWindow.baml
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.g.resources
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.Properties.Resources.resources
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.csproj.GenerateResource.cache
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.csproj.CoreCompileInputs.cache
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.csproj.CopyComplete
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.exe
+D:\STUDIA\ZTP\ZTP PROJEKT\obj\Debug\ZTP.pdb
